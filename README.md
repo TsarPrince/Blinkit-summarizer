@@ -15,3 +15,6 @@
 Example:
   .venv/bin/python order_history.py 15012026 19042026
 ```
+
+### Sample Output:
+https://docs.google.com/spreadsheets/d/1_gh_yzyWvx904ldMPxTYT-rTmMc0dNzW9NQDTYY6enc/edit?usp=sharing
