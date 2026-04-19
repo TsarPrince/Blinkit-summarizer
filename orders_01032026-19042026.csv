@@ -1,0 +1,108 @@
+order_id,timestamp,item,amount,unit,qty,price,bill_total
+ORD69170138012,"17 Apr 2026, 11:16 PM",Smith & Jones Ginger Garlic Paste,200,g,1,39,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Mother Dairy Classic Pouch Pouch Curd,390,g,2,70,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Amul Dark Chocolate Bar,35,g,1,45,526
+ORD69170138012,"17 Apr 2026, 11:16 PM","Happy Kitchen Sharp Vegetable Peeler (Stainless Steel, Plastic)",1,pc,1,49,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Fortune Rice Bran Oil,870,g,1,169,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Amul Moti Toned Milk (90 Days Shelf Life),450,ml,4,132,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Handling charge,,,,9,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Delivery charges,,,,12,526
+ORD69170138012,"17 Apr 2026, 11:16 PM",Feeding India donation,,,,1,526
+ORD88717074223,"17 Apr 2026, 09:15 AM",Harvest Gold Sandwich White Bread,450,g,1,40,345
+ORD88717074223,"17 Apr 2026, 09:15 AM",Pintola High Protein Oats (Dark Chocolate),400,g,1,283,345
+ORD88717074223,"17 Apr 2026, 09:15 AM",Handling charge,,,,9,345
+ORD88717074223,"17 Apr 2026, 09:15 AM",Delivery charges,,,,12,345
+ORD88717074223,"17 Apr 2026, 09:15 AM",Feeding India donation,,,,1,345
+ORD34159913749,"16 Apr 2026, 09:12 AM",Emami Healthy & Tasty Physically Refined Rice Bran Oil,730,g,1,136,264
+ORD34159913749,"16 Apr 2026, 09:12 AM",Kissan Fresh Tomato Ketchup,1.1,kg,1,106,264
+ORD34159913749,"16 Apr 2026, 09:12 AM",Handling charge,,,,9,264
+ORD34159913749,"16 Apr 2026, 09:12 AM",Delivery charges,,,,12,264
+ORD34159913749,"16 Apr 2026, 09:12 AM",Feeding India donation,,,,1,264
+ORD78752816713,"15 Apr 2026, 08:42 PM",Orange Carrot,200,g,2,24,691
+ORD78752816713,"15 Apr 2026, 08:42 PM",Amul Fresh Malai Paneer,200,g,1,95,691
+ORD78752816713,"15 Apr 2026, 08:42 PM",Pintola High Protein Oats (Chocolate),1,kg,1,550,691
+ORD78752816713,"15 Apr 2026, 08:42 PM",Handling charge,,,,9,691
+ORD78752816713,"15 Apr 2026, 08:42 PM",Delivery charges,,,,12,691
+ORD78752816713,"15 Apr 2026, 08:42 PM",Feeding India donation,,,,1,691
+ORD42867385613,"11 Apr 2026, 08:53 PM",Troovy Healthy High Protein Ragi Chips,70,g,1,65,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Crax Corn Rings Masala Mania Puffs Snacks with Super Toys - Pack of 3,57,g,3,63,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Weikfield Pure Multi-Purpose Baking Soda,100,g,1,36,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Yoga Bar Dark Chocolate Oats (Gluten Free),400,g,1,179,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Mother Dairy Classic Pouch Curd,1,kg,1,77,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Handling charge,,,,9,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Delivery charges,,,,12,442
+ORD42867385613,"11 Apr 2026, 08:53 PM",Feeding India donation,,,,1,442
+ORD72930084695,"07 Apr 2026, 09:49 AM",Amul Moti Toned Milk (90 Days Shelf Life),450,ml,2,66,
+ORD72930084695,"07 Apr 2026, 09:49 AM",Fevikwik One Drop Instant Adhesive,3,g,1,40,
+ORD72930084695,"07 Apr 2026, 09:49 AM",Amul Fresh Malai Paneer,200,g,1,95,
+ORD72930084695,"07 Apr 2026, 09:49 AM",Mother Dairy Classic Pouch Curd,1,kg,1,77,
+ORD03129814346,"04 Apr 2026, 09:41 PM",Mother Dairy Classic Pouch Pouch Curd,390,g,1,35,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Bottle Gourd,400,g,1,31,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Scotch Brite Stainless Steel Scrubber Ball,1,pc,1,20,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Smith & Jones Ginger Garlic Paste,200,g,1,43,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Country Delight 10 g Protein Blueberry Flavoured Greek Yogurt,100,g,1,55,299
+ORD03129814346,"04 Apr 2026, 09:41 PM","Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",70,g,1,93,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Handling charge,,,,9,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Delivery charges,,,,12,299
+ORD03129814346,"04 Apr 2026, 09:41 PM",Feeding India donation,,,,1,299
+ORD04717020950,"04 Apr 2026, 01:55 PM",Optimum Nutrition (ON) Gold Standard 100% Whey Protein - 907 g (Double Rich Choco),907,g,1,3541,3563
+ORD04717020950,"04 Apr 2026, 01:55 PM",Handling charge,,,,9,3563
+ORD04717020950,"04 Apr 2026, 01:55 PM",Delivery charges,,,,12,3563
+ORD04717020950,"04 Apr 2026, 01:55 PM",Feeding India donation,,,,1,3563
+ORD34351847968,"29 Mar 2026, 07:41 PM",Whole Farm Premium Cumin Seeds / Jeera Seeds,200,g,1,82,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Whole Farm Premium Kasuri Methi,50,g,1,29,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Tata Salt (Vacuum Evaporated Iodised),1,kg,1,27,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Cauliflower,400,g,1,37,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Bottle Gourd,400,g,1,35,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",4700BC Gourmet Popcorn (Belgian Choco Caramel),60,g,3,116,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Munix Scissors (Multicolour),1,pc,1,50,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Handling charge,,,,9,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Delivery charges,,,,12,398
+ORD34351847968,"29 Mar 2026, 07:41 PM",Feeding India donation,,,,1,398
+ORD70358931505,"28 Mar 2026, 05:37 PM",Rajdhani Besan (1 kg),1,kg,1,95,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Baby Banana - Pack of 2,4,pcs,2,67,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Patanjali Regular Daliya,500,g,1,35,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Rajdhani Moong Dal (Dhuli),1,kg,1,149,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Tata Sampann Masoor Dal Unpolished,1,kg,1,125,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Mother Dairy Classic Pouch Curd,1,kg,1,77,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Handling charge,,,,9,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Delivery charges,,,,12,570
+ORD70358931505,"28 Mar 2026, 05:37 PM",Feeding India donation,,,,1,570
+ORD01744011079,"28 Mar 2026, 10:18 AM",Nayasa Frosty Bucket (Blue),1,pc,1,349,
+ORD11338844951,"28 Mar 2026, 09:55 AM",Potato (0.95-1.05) kg Pack of 2,1,kg,4,66,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Onion - Pack of 2,1,kg,4,114,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Hybrid Tomato - Pack of 2,500,g,2,37,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Lady Finger,250,g,1,34,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Nivea Pearl & Beauty Roll On,1,pc,1,0,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Cabbage,400,g,1,18,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Mother Dairy Toned Milk,500,ml,1,29,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Green Capsicum,250,g,1,27,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM","Scotch Easy To Tear Tape (Transparent, 25 m)",1,pc,1,40,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Palmolive Deep Cleansing Sea Minerals Hand Wash,250,ml,1,120,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Comfort After Wash Fabric Conditioner (Lily Fresh),860,ml,1,205,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Nayasa Frosty Bucket (Blue),1,pc,1,349,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Nayasa Frosty Bathroom Mug (Blue),1,pc,1,59,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Gala Leader Plus Floor Wiper with Replaceable Handle,1,unit,1,239,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Handling charge,,,,9,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Delivery charges,,,,12,1359
+ORD11338844951,"28 Mar 2026, 09:55 AM",Feeding India donation,,,,1,1359
+ORD11714883324,"25 Mar 2026, 10:02 AM",Green Grapes - Seedless,480,g,1,94,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Small Shimla Apple,500,g,1,102,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Baby Banana,4,pcs,1,39,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Mother Dairy Classic Pouch Curd,1,kg,1,77,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Nagpur - Orange,500,g,1,90,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Handling charge,,,,9,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Delivery charges,,,,12,424
+ORD11714883324,"25 Mar 2026, 10:02 AM",Feeding India donation,,,,1,424
+ORD62643588169,"23 Mar 2026, 08:37 AM",French Beans - 250 g,250,g,1,26,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Lady Finger - Pack of 2,250,g,2,75,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Cauliflower,400,g,1,24,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Bottle Gourd,400,g,1,29,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Tata Sampann Whole Mustard Seeds,200,g,1,47,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Handling charge,,,,9,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Delivery charges,,,,12,223
+ORD62643588169,"23 Mar 2026, 08:37 AM",Feeding India donation,,,,1,223
+ORD58980827695,"06 Mar 2026, 11:39 AM",SPT Frozen Green Peas,500,g,1,135,
+ORD29539583071,"06 Mar 2026, 11:36 AM",Nestle KitKat 4F Choco Wafer Chocolate,38.5,g,1,35,
+ORD57713338504,"06 Mar 2026, 11:06 AM",Cadbury Nutties Milk Chocolate Pack,30,g,1,40,
+ORD57713338504,"06 Mar 2026, 11:06 AM",IGP Blush Orchid Single Flower,1,pc,1,149,

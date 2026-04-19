@@ -1,0 +1,29 @@
+curl 'https://blinkit.com/v1/layout/order_history' \
+  -X 'POST' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-IN,en;q=0.9,hi;q=0.8' \
+  -H 'access_token: ******************************' \
+  -H 'app_client: consumer_web' \
+  -H 'app_version: 1010101011' \
+  -H 'auth_key: ******************************' \
+  -H 'content-length: 0' \
+  -H 'content-type: application/json' \
+  -b '******************************' \
+  -H 'device_id: 120ec5a1f8db3815' \
+  -H 'lat: 28.4132534' \
+  -H 'lon: 77.07271589999999' \
+  -H 'origin: https://blinkit.com' \
+  -H 'platform: mobile_web' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://blinkit.com/account/orders' \
+  -H 'rn_bundle_version: 1009003012' \
+  -H 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'session_uuid: aae73858-ff17-40d1-8687-723c3792e207' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36' \
+  -H 'web_app_version: 1008010016' \
+  -H 'x-age-consent-granted: false'
